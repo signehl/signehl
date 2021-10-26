@@ -1,5 +1,5 @@
 ### My name is Signe Hillerup Larsen (she/her)
-
+I am a researcher at GEUS
 <!--
 **signehl/signehl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
